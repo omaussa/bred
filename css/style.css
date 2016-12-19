@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Roboto'; /*a name to be used later*/
+    src: url('../fonts/roboto.ttf'); /*URL to font*/
+}
+
+* {
+  font-family: 'Roboto';
+}
+
+body {
+  background-color: rgb(84, 79, 69);
+}
+
+.vcenter {
+  display: inline-block;
+  vertical-align: middle;
+}
