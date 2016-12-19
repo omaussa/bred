@@ -1,1 +1,3 @@
-# bred
+# B-RED PROJECT
+
+Proyecto de comunicación para grupos de amantes de los videojuegos y tales...
